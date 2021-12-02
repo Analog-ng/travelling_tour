@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/travelling_tour/static/css/main.b608193b.chunk.css",
+    "main.js": "/travelling_tour/static/js/main.308b5cd4.chunk.js",
+    "main.js.map": "/travelling_tour/static/js/main.308b5cd4.chunk.js.map",
+    "runtime-main.js": "/travelling_tour/static/js/runtime-main.4d4966d4.js",
+    "runtime-main.js.map": "/travelling_tour/static/js/runtime-main.4d4966d4.js.map",
+    "static/js/2.293f0f66.chunk.js": "/travelling_tour/static/js/2.293f0f66.chunk.js",
+    "static/js/2.293f0f66.chunk.js.map": "/travelling_tour/static/js/2.293f0f66.chunk.js.map",
+    "index.html": "/travelling_tour/index.html",
+    "static/css/main.b608193b.chunk.css.map": "/travelling_tour/static/css/main.b608193b.chunk.css.map",
+    "static/js/2.293f0f66.chunk.js.LICENSE.txt": "/travelling_tour/static/js/2.293f0f66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4966d4.js",
+    "static/js/2.293f0f66.chunk.js",
+    "static/css/main.b608193b.chunk.css",
+    "static/js/main.308b5cd4.chunk.js"
+  ]
+}

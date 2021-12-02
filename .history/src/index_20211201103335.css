@@ -123,14 +123,14 @@ p {
 
 /* section */
 .section {
-  width: 70vw;
+  width: 90vw;
   margin: 0 auto;
   max-width: var(--max-width);
 }
 
 @media screen and (min-width: 992px) {
   .section {
-    width: 80vw;
+    width: 95vw;
   }
 }
 .btn {
@@ -146,7 +146,6 @@ p {
   margin-top: 2rem;
   font-size: 1.2rem;
 }
-
 /*
 =============== 
 Tours
@@ -163,9 +162,8 @@ main {
 .title {
   text-align: center;
   margin-bottom: 4rem;
-  margin-top: 4rem;
 }
-.underline {
+.title.underline {
   width: 6rem;
   height: 0.25rem;
   background: var(--clr-primary-5);
@@ -194,13 +192,7 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding:0 2rem;
-  margin:0.5rem 0;
-}
-.tour-text {
-  display: inline-block;
-  padding:2rem;
-  line-height: 2;
+  margin-bottom: 0.5rem;
 }
 .tour-info h4 {
   margin-bottom: 0;
@@ -226,7 +218,6 @@ main {
 .single-tour .delete-btn {
   display: block;
   width: 200px;
-  text-align: center;
   margin: 1rem auto 0 auto;
   color: var(--clr-red-dark);
   letter-spacing: var(--spacing);
